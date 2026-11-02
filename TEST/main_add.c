@@ -1,3 +1,4 @@
+//2026.11.2 多文件函数调用
 /*
 #include <stdio.h>
 #include <stdbool.h>
